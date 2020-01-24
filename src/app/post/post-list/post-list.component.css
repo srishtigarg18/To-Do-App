@@ -1,0 +1,9 @@
+span.mat-content {
+    display: block !important;
+    flex: 1;
+    flex-direction: row;
+    overflow: hidden;
+}
+mat-expansion-panel{
+  display: block !important;
+}
